@@ -10,6 +10,13 @@ This JSON Library was modified from Douglas Crockford's JSON Library implementat
 
 Quick Start
 ===========
+
+* Upload BWJSON.js file to Static Resources folder in your Salesforce.com instance.
+* Link the Library to the files that you want.
+
+Example
+=======
+
 ```
 // Stringify Operation
 var result = BWJSON.Stringify( Object );
